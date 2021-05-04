@@ -1,0 +1,3 @@
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+If notebook is opened on google colab, the data is automatically downloaded.
